@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeDistanceChecker", "OfficeDistanceChecker.csproj", "{4A2ED05D-2B0F-4CAE-B562-42EE7FCB20EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2ED05D-2B0F-4CAE-B562-42EE7FCB20EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2ED05D-2B0F-4CAE-B562-42EE7FCB20EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2ED05D-2B0F-4CAE-B562-42EE7FCB20EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2ED05D-2B0F-4CAE-B562-42EE7FCB20EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E774E4A-9D6A-431E-8D79-08588E6EDF6A}
+	EndGlobalSection
+EndGlobal
