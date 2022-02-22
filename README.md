@@ -1,5 +1,5 @@
 # POC_EmployeeOfficeDistanceChecker
-Check distance and time consumption in public transportation between two given addresses and a list of addresses using google distance matrix API <<GOOGLE API NEEDED>>
+Check distance and time consumption in public transportation between two given addresses and a list of addresses using google distance matrix API {GOOGLE API NEEDED}
 
 #Use
 Just copy the csv file with all the adresses you want to compare the distance/time consuption in the defined PATH with the desire import and export name, and set the OldAdress and NewAdress Const.
